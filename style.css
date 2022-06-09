@@ -1,0 +1,33 @@
+body
+{
+    background-size:auto;
+    background-position:center;
+}
+
+#heading_1
+{
+    font-size:80px;
+    color:black;
+    text-shadow:1px black 2px grey;
+}
+
+#heading_1:hover
+{
+    color:crimson;
+}
+
+#main_btn
+{
+    background-color:black;
+    color:white;
+    width:30%;
+    height:10%;
+    font-size:medium;
+    border-radius:40px;
+}
+
+#main_btn:hover
+{
+    color:black;
+    background-color:white;
+}
